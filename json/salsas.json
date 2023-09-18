@@ -1,0 +1,6 @@
+[
+    {"nombre":"Alioli", "precio": 100, "id": 1},
+    {"nombre":"Tasty", "precio": 100, "id": 2},
+    {"nombre":"Barbacoa", "precio": 200, "id": 3},
+    {"nombre":"Honey", "precio": 200, "id": 4}
+]

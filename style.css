@@ -1,0 +1,39 @@
+#logo {
+    max-width: 100px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #ffc107 !important;
+    font-size: 30px;
+    text-shadow: 3px 3px rgb(238, 85, 58);
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 1rem;
+    text-align: center;
+}
+
+.colorBoton {
+    color: black;
+    background-color: #ffc107;
+}
+
+.colorBoton:hover {
+    background-color: #bb9217;
+    color: black;
+}
+
+h2, h3, h4 {
+    text-align: center;
+}
+
